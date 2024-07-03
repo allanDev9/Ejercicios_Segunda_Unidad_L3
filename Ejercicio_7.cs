@@ -79,6 +79,7 @@ namespace Ejercicios_Segunda_Unidad_L3
             fila.SubItems.Add(descuento.ToString("C"));
             fila.SubItems.Add(neto.ToString("C"));
             lvLlamadas.Items.Add(fila);
+            //Hola
         }
 
         private void tsCancelar_Click(object sender, EventArgs e)
